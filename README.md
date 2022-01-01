@@ -63,7 +63,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Wandrys-dev](https://github.com/Wandrys-dev)
+⭐️ From [JoeRamos](https://github.com/JoelRamosC)
 
 
 
@@ -101,13 +101,13 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <table width="100%"> 
   <tr>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Wandrys-dev&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=JoelRamosC&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wandrys-dev&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoelRamosC&layout=compact&langs_count=8&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wandrys-dev&amp;langs_count=8&amp;theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoelRamosC&amp;langs_count=8&amp;theme=algolia">
     </td>
   </tr>
 </table>
@@ -120,25 +120,25 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 class ComputerEngineer:
     def __init__(self):
-        self.name    = "Wandrys Nascimento"
+        self.name    = "Joel Ramos"
         self.role    = "Data Scientist"
-        self.contact = "wandrys.sousa@protonmail.com"
-        self.work    = "Data Scientist, Software, Network Systems, Web Developer"
-        self.learn   = "Image Processing and Game Programming"
+        self.contact = "joel.ramos.ma@gmailcom"
+        self.work    = "Data Scientist, Electronic Engineering, Roboticist, writer, teacher"
+        self.learn   = "Robotics and APP developer"
     
     def getCity():
-        return Brasilia_Brazil()
+        return Rio_Brazil()
 
 me = DataScientist()
 ```
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoelRamosC&theme=react-dark)](https://github.com/JoelRamosC/github-readme-activity-graph)
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/JoelRamosC/count.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/eesa.gif">
+  <img src="https://github.com/JoelRamosC/JoelRamosC/blob/main/eesa.gif">
 </p>
