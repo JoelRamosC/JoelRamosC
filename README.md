@@ -53,7 +53,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 <br/>
 
-<img align="right" width="150" height="100" src="https://github.com/JoelRamosC/JoelRamosC/blob/main/kattoo.gif">
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
