@@ -53,23 +53,23 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 <br/>
 
-<img align="right" width="150" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/kattoo.gif">
+<img align="right" width="150" height="100" src="https://github.com/JoelRamosC/JoelRamosC/blob/main/kattoo.gif">
 
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
 <a href="https://twitter.com/Wandrys_"><img alt="twitter"  src="https://logo.letskhabar.com/img/?tool=twitter" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://www.instagram.com/matematico_do_planalto_central/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:wandrys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://https://www.instagram.com/joel.ramos.ma/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Joe_Ramos-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:joel.ramos.ma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joel.ramos.ma@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [JoeRamos](https://github.com/JoelRamosC)
 
 
 
-<img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
+<img align="right" width="350" alt="Code" src="https://github.com/JoelRamosC/JoelRamosC/blob/main/code.gif"/>
 
-<img align="right" width="100" height="100" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
+<img align="right" width="100" height="100" src="https://github.com/JoelRamosC/JoelRamosC/blob/main/function.gif">
 
 ## Languages and Tools I Use
 
